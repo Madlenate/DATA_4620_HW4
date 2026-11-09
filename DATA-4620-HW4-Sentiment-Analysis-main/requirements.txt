@@ -1,0 +1,10 @@
+torch
+numpy
+matplotlib
+scikit-learn
+ipykernel
+tqdm
+pandas
+torchmetrics
+tokenizers
+transformers
